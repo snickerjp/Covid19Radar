@@ -55,6 +55,8 @@ PCはその場合Bluetooth 4.0 LE以後を扱える必要があります。な�
 
 Beacon Simulatorが無償で配布されていますので、こちらをWindows Storeから導入してください。
 
+[Get Beacon Simulator \- Microsoft Store](https://www.microsoft.com/store/productId/9NBLGGH4XVD0)
+
 ![Beacon Simulator](../.attachments/test005-b5be66b5-b50a-49ad-a96e-917e39f99e2b.png)
 
 起動後、Add Beaconで以下の情報を登録してください。
