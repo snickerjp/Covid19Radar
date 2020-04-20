@@ -53,9 +53,9 @@ PCはその場合Bluetooth 4.0 LE以後を扱える必要があります。な�
 
 #### Windows 10 PC
 
-Beacon Simuratorが無償で配布されていますので、こちらをWindows Storeから導入してください。
+Beacon Simulatorが無償で配布されていますので、こちらをWindows Storeから導入してください。
 
-![Beacon Simurator](../.attachments/test005-b5be66b5-b50a-49ad-a96e-917e39f99e2b.png)
+![Beacon Simulator](../.attachments/test005-b5be66b5-b50a-49ad-a96e-917e39f99e2b.png)
 
 起動後、Add Beaconで以下の情報を登録してください。
 
